@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Attendance Monitoring System
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -102,3 +103,7 @@ lib/
 
 **Barot Pratham Vipulbhai** — 202201619010002
 GLS University, iMSc.IT Semester VIII
+=======
+# Attendance-Monitoring-System
+Attendance monitoring system built with Flutter and Firebase, featuring role-based access for students, faculty, and administrators.
+>>>>>>> 1b2f9b75a23b4780c09f4158fbf028fc33bb77d3
