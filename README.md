@@ -45,8 +45,8 @@ This project was built to learn Flutter and Firebase during Semester VIII of the
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/pratham195/attendance-monitoring-system.git
-   cd attendance-monitoring-system
+   git clone https://github.com/pratham195/Attendance-Monitoring-System.git
+   cd Attendance-Monitoring-System
    ```
 
 2. **Set up a Flutter project** and copy the `lib/` folder into it
