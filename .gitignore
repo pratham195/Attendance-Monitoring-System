@@ -2,4 +2,5 @@
 !lib/
 !lib/**
 !.gitignore
-!README.mds
+!README.md
+!*.pdf
