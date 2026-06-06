@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # 📱 Attendance Monitoring System
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-A cross-platform mobile application built with **Flutter** and **Firebase** as a college project for the course **221601801 - Cross Platform Mobile App Development**.
+A cross-platform mobile application built with **Flutter** and **Firebase** as a college project for the course **- Cross Platform Mobile App Development**.
 
 > 🎓 **GLS University — Faculty of Computer Applications & IT**
 > iMSc.IT Programme | Semester VIII
@@ -98,12 +97,3 @@ lib/
 ```
 
 ---
-
-## Developer
-
-**Barot Pratham Vipulbhai** — 202201619010002
-GLS University, iMSc.IT Semester VIII
-=======
-# Attendance-Monitoring-System
-Attendance monitoring system built with Flutter and Firebase, featuring role-based access for students, faculty, and administrators.
->>>>>>> 1b2f9b75a23b4780c09f4158fbf028fc33bb77d3
